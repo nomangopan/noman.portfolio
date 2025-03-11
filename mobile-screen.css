@@ -23,7 +23,7 @@
         flex-direction: column;
         gap: 15px;
         height: calc(100vh - 5rem);
-       overflow-x: hidden;
+       /* overflow-x: hidden; */
     }
     .main-section-image img{
         width: 200px;
