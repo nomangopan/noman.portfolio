@@ -73,11 +73,16 @@ header ul li a{
     height: calc(100vh - 11rem);
 }
 .main-section-image img{
-    border-radius: 200px;
+    border-radius: 50%;
     width: 350px;
     height: 350px;
-    border: 15px solid #555;
+    border: 10px solid #555;
+   box-shadow: 0 0 20px #e96262, 0 0 10px #f50000 ;
+   
 }
+
+
+
 .main-section-items{
     width: 550px;
 }
