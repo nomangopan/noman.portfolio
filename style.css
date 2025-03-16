@@ -113,7 +113,7 @@ header ul li a{
 }
 .main-section-items-btns button:nth-child(odd){
     border: 2px solid #007ced;
-    color: #fff;
+    color: #7c7878;
     transition: 0.3s linear;
 }
 .main-section-items-btns button:nth-child(odd):hover{
